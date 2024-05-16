@@ -1,5 +1,5 @@
 .galeria{
-    background-image: url(../Img/light-purple-pattern-with-curved-lines-colorful-illustration-with-curved-lines-pattern-for-websites-landing-pages-vector.jpg);
+    background-image: url(../img/light-purple-pattern-with-curved-lines-colorful-illustration-with-curved-lines-pattern-for-websites-landing-pages-vector.jpg);
     background-position: center;
     background-size: cover;
     display: grid;
@@ -41,18 +41,18 @@
     background-size: cover;
 }
 .item1{
-    background-image:url('./quesomos.jpg');
+    background-image:url('../img/quesomos.jpg');
     grid-area: img1 ;
 }
 .item2{
     grid-area: img2;
-    background-image:url('./perchas.jpg')
+    background-image:url('../img/perchas.jpg')
 }
 .item3{
     grid-area: img3;
-    background-image:url('./wrld.jpg')
+    background-image:url('../img/wrld.jpg')
 }
 .item4{
     grid-area: img4;
-    background-image:url('../Img/backgroundredlines.jpg')
+    background-image:url('../img/backgroundredlines.jpg')
 }

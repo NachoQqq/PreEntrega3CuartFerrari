@@ -4,7 +4,7 @@
 }
 
 .presentation-2 {
-  background-image: url("../Img/museum.jpg");
+  background-image: url(../Img/museum.jpg);
   background-position: center;
   background-size: cover;
   min-height: 500px;
@@ -78,7 +78,7 @@
   padding: 20px;
   display: flex;
   justify-content: space-evenly;
-  background-image: url("../Img/light-purple-pattern-with-curved-lines-colorful-illustration-with-curved-lines-pattern-for-websites-landing-pages-vector.jpg");
+  background-image: url(../Img/light-purple-pattern-with-curved-lines-colorful-illustration-with-curved-lines-pattern-for-websites-landing-pages-vector.jpg);
   background-position: center;
   background-size: cover;
 }
