@@ -20,6 +20,15 @@
 }
 .card-img-top{filter: sepia(100%);
 }
+.card-img-top-1{
+    background-image: url(../img/remwhite.jpg);
+}
+.card-img-top-2{
+    background-image: url(../img/rembrown.jpg);
+}
+.card-img-top-3{
+    background-image: url(../img/remblack.jpg);
+}
 .card-img-top:hover{
 transform: scale(1.4);
 border-radius: 15px;
