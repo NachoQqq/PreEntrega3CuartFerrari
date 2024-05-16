@@ -41,16 +41,16 @@
     background-size: cover;
 }
 .item1{
-    background-image:url('../Img/quesomos.jpg');
+    background-image:url('./quesomos.jpg');
     grid-area: img1 ;
 }
 .item2{
     grid-area: img2;
-    background-image:url('../Img/perchas.jpg')
+    background-image:url('./perchas.jpg')
 }
 .item3{
     grid-area: img3;
-    background-image:url('../Img/wrld.jpg')
+    background-image:url('./wrld.jpg')
 }
 .item4{
     grid-area: img4;
