@@ -4,7 +4,7 @@
 }
 
 .presentation-2 {
-  background-image: url(../Img/museum.jpg);
+  background-image: url(../img/museum.jpg);
   background-position: center;
   background-size: cover;
   min-height: 500px;
@@ -17,7 +17,7 @@
   text-align: center;
   border: solid #3e2d4e 5px;
   box-sizing: border-box;
-  background-image: url(../Img/light-purple-pattern-with-curved-lines-colorful-illustration-with-curved-lines-pattern-for-websites-landing-pages-vector.jpg);
+  background-image: url(../img/light-purple-pattern-with-curved-lines-colorful-illustration-with-curved-lines-pattern-for-websites-landing-pages-vector.jpg);
   background-position: center;
   background-size: cover;
 }
@@ -26,7 +26,7 @@
   display: flex;
   justify-content: space-between;
   font-size: 190px;
-  background-image: url(../Img/light-purple-pattern-with-curved-lines-colorful-illustration-with-curved-lines-pattern-for-websites-landing-pages-vector.jpg);
+  background-image: url(../img/light-purple-pattern-with-curved-lines-colorful-illustration-with-curved-lines-pattern-for-websites-landing-pages-vector.jpg);
   background-position: center;
   background-size: cover;
   padding: 60px;
@@ -53,7 +53,7 @@
   display: flex;
   justify-content: space-between;
   font-size: 190px;
-  background-image: url(../Img/light-purple-pattern-with-curved-lines-colorful-illustration-with-curved-lines-pattern-for-websites-landing-pages-vector.jpg);
+  background-image: url(../img/light-purple-pattern-with-curved-lines-colorful-illustration-with-curved-lines-pattern-for-websites-landing-pages-vector.jpg);
   background-position: center;
   background-size: cover;
   padding: 60px;
@@ -78,7 +78,7 @@
   padding: 20px;
   display: flex;
   justify-content: space-evenly;
-  background-image: url(../Img/light-purple-pattern-with-curved-lines-colorful-illustration-with-curved-lines-pattern-for-websites-landing-pages-vector.jpg);
+  background-image: url(../img/light-purple-pattern-with-curved-lines-colorful-illustration-with-curved-lines-pattern-for-websites-landing-pages-vector.jpg);
   background-position: center;
   background-size: cover;
 }
@@ -166,7 +166,7 @@
 }
 
 .galeria {
-  background-image: url(../Img/light-purple-pattern-with-curved-lines-colorful-illustration-with-curved-lines-pattern-for-websites-landing-pages-vector.jpg);
+  background-image: url(../img/light-purple-pattern-with-curved-lines-colorful-illustration-with-curved-lines-pattern-for-websites-landing-pages-vector.jpg);
   background-position: center;
   background-size: cover;
   display: grid;
@@ -199,23 +199,23 @@
 }
 
 .item1 {
-  background-image: url("../Img/quesomos.jpg");
+  background-image: url(../img/quesomos.jpg);
   grid-area: img1;
 }
 
 .item2 {
   grid-area: img2;
-  background-image: url("../Img/perchas.jpg");
+  background-image: url(../img/perchas.jpg);
 }
 
 .item3 {
   grid-area: img3;
-  background-image: url("../Img/wrld.jpg");
+  background-image: url(../img/wrld.jpg);
 }
 
 .item4 {
   grid-area: img4;
-  background-image: url("../Img/backgroundredlines.jpg");
+  background-image: url(../img/backgroundredlines.jpg);
 }
 
 .navbar {
