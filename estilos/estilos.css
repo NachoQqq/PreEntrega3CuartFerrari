@@ -1,4 +1,3 @@
-/*Presentacion drop semanal*/
 .presentation-1 {
   background-color: #826e92;
   padding: 50px;
@@ -10,7 +9,7 @@
   background-size: cover;
   min-height: 500px;
 }
-/*Sucursales*/
+
 .maps {
   display: flex;
   justify-content: center;
@@ -22,12 +21,12 @@
   background-position: center;
   background-size: cover;
 }
-/*Contacto*/
+
 .contact {
   display: flex;
   justify-content: space-between;
   font-size: 190px;
-  background-image: url(../Img/light-purple-pattern-with-curved-lines-colorful-illustration-with-curved-lines-pattern-for-websites-landing-pages-vector.jpg);
+  background-image: url(../img/light-purple-pattern-with-curved-lines-colorful-illustration-with-curved-lines-pattern-for-websites-landing-pages-vector.jpg);
   background-position: center;
   background-size: cover;
   padding: 60px;
@@ -74,7 +73,7 @@
 .contact1 a:hover {
   color: red;
 }
-/*Productos destacados*/
+
 .cards {
   padding: 20px;
   display: flex;
@@ -104,15 +103,15 @@
 }
 
 .card-img-top-1 {
-  background-image: url(../img/remwhite.jpg);
+  src: "../img/white.jpg";
 }
 
 .card-img-top-2 {
-  background-image: url(../img/rembrown.jpg);
+  src: "../img/rembrown.jpg";
 }
 
 .card-img-top-3 {
-  background-image: url(../img/remblack.jpg);
+  src: "../img/remblack.jpg";
 }
 
 .card-img-top:hover {
@@ -135,7 +134,7 @@
   transform: scale(1.2);
   transition: 0.4s;
 }
-/*titulos*/
+
 .t1 {
   display: flex;
   justify-content: center;
@@ -177,7 +176,7 @@
   color: #000;
   text-shadow: 0 0 5px #fff;
 }
-/*Galeria de presentacion*/
+
 .galeria {
   background-image: url(../img/light-purple-pattern-with-curved-lines-colorful-illustration-with-curved-lines-pattern-for-websites-landing-pages-vector.jpg);
   background-position: center;
@@ -230,7 +229,7 @@
   grid-area: img4;
   background-image: url("../img/backgroundredlines.jpg");
 }
-/*barra de navegacion*/
+
 .navbar {
   background-image: linear-gradient(to right, #ad5389, #3c1053);
 }
@@ -257,7 +256,7 @@
   display: flex;
   justify-content: flex-end;
 }
-/*footer*/
+
 footer {
   display: flex;
   justify-content: center;
