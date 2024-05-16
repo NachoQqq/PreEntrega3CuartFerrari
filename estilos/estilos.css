@@ -245,6 +245,28 @@
   justify-content: flex-end;
 }
 
+.transition-soft {
+  transition: all 0.3s ease;
+}
+
+@media (min-width: 768px) {
+  .logo-img {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    top: 0vh;
+    left: auto;
+  }
+}
+.logo-img {
+  border-radius: 5%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
 footer {
   display: flex;
   justify-content: center;
